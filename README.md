@@ -5,17 +5,10 @@
 
 <img src="travel-app.jpg" alt="app" />
 
-#### Welcome Screen
+- Welcome Screen
+- Home Screen
+- Destinations Screen
 
-<img src="welcomescreen.jpg" style="width:350px;" alt="Welcome Screen" />
-
-#### Home Screen
-
-<img src="homescreen.jpg" style="width:350px;" alt="Home Screen" />
-
-#### Destinations Screen
-
-<img src="destinationscreen.jpg" style="width:350px;" alt="Destination Screen" />
 
 
 ## What did we use in the project?
