@@ -3,7 +3,7 @@
 
 ## Preview Final Project
 
-<img src="travel-app.jpg" style="width:350px;" alt="app" />
+<img src="travel-app.jpg" alt="app" />
 
 #### Welcome Screen
 
