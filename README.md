@@ -3,6 +3,8 @@
 
 ## Preview Final Project
 
+<img src="app.jpg" style="width:350px;" alt="app" />
+
 #### Welcome Screen
 
 <img src="welcomescreen.jpg" style="width:350px;" alt="Welcome Screen" />
