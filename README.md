@@ -3,13 +3,11 @@
 
 ## Preview Final Project
 
-<img src="travel-app.jpg" alt="app" />
-
 - Welcome Screen
 - Home Screen
 - Destinations Screen
 
-
+<img src="travel-app.jpg" alt="app" />
 
 ## What did we use in the project?
 ### 1- [React Native Expo](https://reactnative.dev/)
